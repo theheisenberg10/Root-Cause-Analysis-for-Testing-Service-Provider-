@@ -19,4 +19,4 @@ We used causal inference techniques (T-test) to see if there was a significant v
 We identified intriguing trends and clustered them into groups using candidate level information such as a student's scores, demographics, and internal study resource utilization statistics. Then we regressed the candidates' scores on the dependent variables to see what helped them score higher and what pulled their score down.
 
 ### Conclusion
-We discovered that in certain places, employing a specific sort of study material (audio resources) was beneficial, whilst in others, a different strategy (personal tutoring) was beneficial.
+We identified intriguing trends and clustered them into groups using candidate level information such as a student's scores, demographics, and internal study resource utilization statistics. Then we regressed the candidates' scores on the dependent variables to see what helped them score higher and what pulled their score down. We discovered that in certain places, employing a specific sort of study material (audio resources) was beneficial, whilst in others, a different strategy (personal tutoring) was beneficial
